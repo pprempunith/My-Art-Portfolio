@@ -92,7 +92,7 @@ font-size: 2rem;
 .div2-fb {
    width: 40px;
    height: 40px;
-   background-image: url(../img/Instagram_logo.png);
+   background-image: url(./Instagram_logo.png);
    background-repeat: no-repeat;
    background-size: cover;
    display: flex;
@@ -101,20 +101,20 @@ font-size: 2rem;
 }
 
 .div2-fb:hover{
-   background-image: url(../img/Screenshot__393_-removebg-preview.png);
+   background-image: url(./Screenshot__393_-removebg-preview.png);
 }
 
 .div2-yt {
    width: 50px;
    height: 35px;
-   background-image: url(../img/images-removebg-preview.png);
+   background-image: url(./images-removebg-preview.png);
    background-repeat: no-repeat;
    background-size: cover;
    display: flex;
 }
 
 .div2-yt:hover{
-   background-image: url(../img/youtube\ color.png);
+   background-image: url(./youtube\ color.png);
 }
 
 .nav1 ul a:hover {
@@ -126,7 +126,7 @@ font-size: 2rem;
  width: 100%;
  height: calc(100vh - 150px);
  
- background-image:url(./img/bg2.png) ,url(./img/pxfuel.jpg);
+ background-image:url(./bg2.png) ,url(./pxfuel.jpg);
  background-repeat: no-repeat;
  background-position: left, center;
  background-size: contain ,cover;
@@ -217,7 +217,7 @@ padding: 0 50px;
       display: block;
       width: 40px;
       height: 40px;
-      background-image: url(../img/burger-menu.png) ,url(../img/cancel.png);
+      background-image: url(./burger-menu.png) ,url(./cancel.png);
       background-size: cover;
       background-position: center,center left 50px;
       background-repeat: no-repeat;
@@ -282,7 +282,7 @@ padding: 0 50px;
 }
 
 main{
-   background-image: url(../img/pxfuel.jpg);
+   background-image: url(./pxfuel.jpg);
    background-size: cover;
 
 }
